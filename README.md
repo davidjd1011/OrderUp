@@ -47,7 +47,8 @@ RNF-03	Rendimiento y tiempo de respuesta.	Rendimiento
 
 4.2 Diagrama de Clases
 <!-- Inserta aquí una imagen o enlace -->
-Diagrama de Clases
+<img width="1245" height="794" alt="image" src="https://github.com/user-attachments/assets/c84fd55e-8a8b-419c-9699-1c79ee721989" />
+
 
 4.3 Arquitectura del Software
 
